@@ -23,4 +23,7 @@ The number of employees that are eligible for the retirement is quite high in co
 - Spend training program where they can boost the number of employees who can step-up to the senior positions.
 - Increase the number of the job openings in the market however this wont solve the effect on the senior positions.
 - Plan ahead so that they don't end up in these kind of situation in future.
+
+
+
 Going further i will be looking at the department who are going to get hit most from the retirement.
